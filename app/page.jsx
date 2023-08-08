@@ -4,13 +4,12 @@ const Home = () => {
   return (
     <section className="w-full flex-center flex-col">
       <h1 className="head_text text-center">
-        Discover & Share
+        My Portfolio
         <br />
-        <span className="cyan_gradient text-center">AI-Powered Prompts</span>
+        <span className="cyan_gradient text-center">Healthy Smiles</span>
       </h1>
       <p className="desc text-center">
-        Dental Portfolio - A place where a dentist&apos;s works can be uploaded
-        and viewed
+        Dental Portfolio - A platform designed for the upload and viewing of a dentist&apos;s professional works.
       </p>
       <Feed />
     </section>

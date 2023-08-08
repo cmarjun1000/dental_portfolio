@@ -6,7 +6,7 @@ import Provider from "@components/Provider";
 export const metadata = {
   title: "Dental Portfolio",
   description:
-    "Dental Portfolio - A place where a dentist's works can be uploaded and viewed",
+    "Dental Portfolio - A platform designed for the upload and viewing of a dentist's professional works",
 };
 
 const RootLayout = ({ children }) => {
